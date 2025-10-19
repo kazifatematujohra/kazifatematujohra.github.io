@@ -1,2 +1,3 @@
-# kazifatematujohra.github.io
-Personal website of Kazi Fatema Tuj Johra 
+# Kazi Fatema Tuj Johra
+Chillin'
+
